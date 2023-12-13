@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpWebClientScanner", "SharpWebClientScanner\SharpWebClientScanner.csproj", "{7FB964E1-48FC-4CB4-AEE0-3E70E28B8372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB964E1-48FC-4CB4-AEE0-3E70E28B8372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB964E1-48FC-4CB4-AEE0-3E70E28B8372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB964E1-48FC-4CB4-AEE0-3E70E28B8372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB964E1-48FC-4CB4-AEE0-3E70E28B8372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D0DE57-FE2F-4824-93B3-E79CFC4F98A8}
+	EndGlobalSection
+EndGlobal
